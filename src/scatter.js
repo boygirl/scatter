@@ -65,7 +65,7 @@ const Scatter = React.createClass({
     return (
       <div>
         <div style={{'marginLeft': '20px', 'fontFamily': 'Futura, Helvetica'}}>
-          <h1> D3 and React: Part II </h1>
+          <h1> D3 and React: Animated Scatter Plot </h1>
           <button
             onClick={this.handleSVGClick}
             style={{
